@@ -116,3 +116,64 @@ httpd: Could not reliably determine the server's fully qualified domain name, us
 [Tue Dec 20 07:54:24 2022] [notice] Digest: done
 [Tue Dec 20 07:54:25 2022] [warn] pid file /usr/local/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
 [Tue Dec 20 07:54:25 2022] [notice] Apache/2.2.10 (Unix) DAV/2 PHP/5.2.16 configured -- resuming normal operations
+[Tue Dec 20 07:58:26 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://localhost:8013/
+[Tue Dec 20 07:58:53 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://localhost:8013/
+[Tue Dec 20 08:22:54 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:23:06 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:23:40 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:23:55 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:24:08 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:25:08 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:25:17 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:25:24 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:25:48 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:25:48 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:26:02 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:26:02 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:26:52 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:26:52 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:31:05 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:31:05 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:31:59 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:31:59 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:32:19 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:32:19 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:33:51 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:33:51 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:34:11 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:34:11 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:24 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:24 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:48 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:48 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:49 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:49 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:49 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:41:49 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:34 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:34 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:45 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:45 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:45 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:45 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:47 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:42:47 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:28 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:28 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:43 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:43 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:52 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:44:52 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:45:22 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 08:45:22 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 09:13:39 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 09:14:21 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+[Tue Dec 20 09:14:21 2022] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/app/..., referer: http://localhost:8013/app/
+httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4 for ServerName
+[Thu Jan 12 09:33:53 2023] [notice] Digest: generating secret for digest authentication ...
+[Thu Jan 12 09:33:53 2023] [notice] Digest: done
+[Thu Jan 12 09:33:54 2023] [warn] pid file /usr/local/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 12 09:33:54 2023] [notice] Apache/2.2.10 (Unix) DAV/2 PHP/5.2.16 configured -- resuming normal operations
+[Thu Jan 12 09:48:37 2023] [error] [client 172.21.0.1] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://localhost:8013/show_cookie.php
+[Thu Jan 12 10:42:34 2023] [error] [client 172.21.0.1] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /usr/local/apache2/htdocs/layouts/header.php on line 3, referer: http://localhost:8013/layouts/home.php
+[Thu Jan 12 10:42:34 2023] [error] [client 172.21.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/local/lib/php') in /usr/local/apache2/htdocs/layouts/header.php on line 3, referer: http://localhost:8013/layouts/home.php
